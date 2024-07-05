@@ -1,3 +1,31 @@
+<h1>React + vite Audio-Book</h1>
+<h2>Example of Software</h2>
+
+<img width="600px" heigth="600px" src="./assets/image01.png">
+<img width="600px" heigth="600px" src="./assets/image02.png">
+
+<p>This application was developed using **React JS, Vite**  to create the To-Do.</p>
+
+<h2 id="pre-requisites"> Prerequisites</h2>
+
+<p>To run this project, you need to have Vs Code installed on your machine.</p>
+
+<h2 id="how-to-use"> Installing the Project</h2>
+
+<p>First, clone the repository,</p>
+
+<pre><code># Clone the repository
+$ git clone https://github.com/jefersonprimer/react-audio-book
+
+# Navigate into it
+$ cd react-audio-book
+$ npm run dev
+
+# Open Vs Code
+$ code .
+</code></pre>
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
