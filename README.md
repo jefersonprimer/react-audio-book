@@ -1,8 +1,8 @@
 <h1>React + vite Audio-Book</h1>
 <h2>Example of Software</h2>
 
-<img width="600px" heigth="600px" src="./assets/image01.png">
-<img width="600px" heigth="600px" src="./assets/image02.png">
+<img width="600px" heigth="600px" src="../assets/image01.png">
+<img width="600px" heigth="600px" src="../assets/image02.png">
 
 <p>This application was developed using **React JS, Vite**  to create the To-Do.</p>
 
