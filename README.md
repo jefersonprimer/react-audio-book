@@ -4,7 +4,7 @@
 <img width="600px" heigth="600px" src="./src/assets/image01.png">
 <img width="600px" heigth="600px" src="./src/assets/image02.png">
 
-<p>This application was developed using **React JS, Vite**  to create the To-Do.</p>
+<p>This application was developed using **React JS, Vite**  to create the Audio-Book.</p>
 
 <h2 id="pre-requisites"> Prerequisites</h2>
 
